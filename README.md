@@ -6,6 +6,7 @@ This project web scrap CragList website to give a cool ui
 -  Start Django project ` $ django-admin startproject <your_project_name>`
 -  Start your app ` $ python manage.py startapp <your_app_name>`
 -  Start your Server `$ python manage.py runserver`
+-  Creates any necessary database `$ python manage.py migrate `
 
 ### New Command
 - Used for creating requirements file for dependencies
