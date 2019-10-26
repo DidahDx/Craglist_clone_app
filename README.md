@@ -7,6 +7,7 @@ This project web scrap CragList website to give a cool ui
 -  Start your app ` $ python manage.py startapp <your_app_name>`
 -  Start your Server `$ python manage.py runserver`
 -  Creates any necessary database `$ python manage.py migrate `
+- Used for running test `$ python manage.py test <your_app_name> `
 
 ### New Command
 - Used for creating requirements file for dependencies
