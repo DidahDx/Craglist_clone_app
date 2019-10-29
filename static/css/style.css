@@ -3,7 +3,15 @@
     overflow: hidden;
 }
 
-.card-image {
-    height: 250px; /* Your height here */
+.card-image{
+    height: 230px; /* Your height here */
     overflow: hidden;
+}
+
+.card-content{
+    height: 110px;
+}
+
+.card-action{
+    height: 40px;
 }
