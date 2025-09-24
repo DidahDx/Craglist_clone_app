@@ -6,7 +6,7 @@ from . import models
 
 # Create your views here.
 # Are used to return the web pages (Add extra information to and get info from web pages)
-BASE_CRAIGSLIST_URL = 'https://kenya.craigslist.org/search/?query={}'
+BASE_CRAIGSLIST_URL = 'https://denver.craigslist.org/search/?query={}'
 BASE_IMAGE_URL = 'https://images.craigslist.org/{}_300x300.jpg'
 
 
